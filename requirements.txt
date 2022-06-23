@@ -1,1 +1,7 @@
-ÿþ
+pyTelegramBotAPI
+python-telegram-bot
+telebot
+gtts 
+praw
+googletrans
+Translate
